@@ -4,6 +4,10 @@
 multiplayer modes (1 - 10 players can play). All battles are 5 v 5 battles which can involve at least 1 and at most 10 human players. Each
 player in the battle will be placed in one of the two teams randomly and both teams have 5 players.
 
+Ever heard of "Mobile Legends: Bang Bang" on Google Play Store? Basically, this game involves both 5 v 5 PVP and PVE battles like "Mobile Legends:
+Bang Bang". You will understand about this game well if you are good in playing "Mobile Legends: Bang Bang". However, the differences between this game
+and "Mobile Legends: Bang Bang" are that this game is offline, running on command line interface, and is turn based.
+
 ### Executable File
 
 The executable file "battleland.exe" is used to run the game application. It is downloadable from 
@@ -21,6 +25,23 @@ Typing in anything besides 'Y' will save game data and then quit the game. Meanw
 mode you want to play in (either single player or multiplayer).
 
 ![Getting Started](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Getting%20Started.png)
+
+### Mode Selection
+
+You can choose either single player or multiplayer mode when playing this game. Below shows how mode selection looks like.
+
+![Mode Selection](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Mode%20Selection.png)
+
+### Single Player Mode
+
+In single player mode, you will play with 9 CPU controlled players where 4 of them are your teammates. You will be randomly placed in either team one or
+team two for the battle.
+
+#### Human Player Data Creation
+
+You will be told to create human player data when no human player data has been saved. The creation process involves entering your name and looks like below.
+
+![Human Player Data Creation](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Human%20Player%20Data%20Creation.png)
 
 ### Version History
 
