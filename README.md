@@ -55,6 +55,20 @@ want to purchase where index 0 means the first rune in the list of runes sold in
 
 ![Rune Purchase 2](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Rune%20Purchase%202.png)
 
+#### Battle Turn
+
+Once you have your turn, you will be asked to input the x and y coordinates of the tile you want to move to. If the move to the destination tile is valid, the hero you control
+will be moved there. Else, you will be asked to input another value of x and y coordinates until you input a valid move.
+
+![Move Hero](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Move%20Hero.png)
+
+#### Attack a Character or Building
+
+If a character or building on a tile next to the tile where the hero you control is at is detected, you will be asked whether you want to attack that character or building 
+or not.
+
+![Attack](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Attack.png)
+
 ### Upgrade Purchase
 
 Upgrades are purchaseable from the global shop outside battles. They are used to permanently strengthen the heroes players control during battles. Below shows how it
