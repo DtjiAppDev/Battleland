@@ -43,6 +43,19 @@ You will be told to create human player data when no human player data has been 
 
 ![Human Player Data Creation](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Human%20Player%20Data%20Creation.png)
 
+### Upgrade Purchase
+
+Upgrades are purchaseable from the global shop outside battles. They are used to permanently strengthen the heroes players control during battles. Below shows how it
+looks like when you are about to buy an upgrade.
+
+![Upgrade Purchase 1](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Upgrade%20Purchase%201.png)
+
+The screenshot above shows that when you enter Y when asked whether you want to buy an upgrade or not, a list of upgrades sold in the upgrade shop is shown. Then, you
+will be asked to enter the index (an integer) of the upgrade you want to purchase where index 0 means the first upgrade in the list, index 1 means the second upgrade in
+the list, and so on.
+
+![Upgrade Purchase 2](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Upgrade%20Purchase%202.png)
+
 ### Version History
 
 #### Version pre-release 1 (Saturday, 25 July 2020)
