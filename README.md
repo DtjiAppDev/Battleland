@@ -43,6 +43,18 @@ You will be told to create human player data when no human player data has been 
 
 ![Human Player Data Creation](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Human%20Player%20Data%20Creation.png)
 
+#### Rune Purchase
+
+Runes are purchaseable from the battlefield shop during battles. They are used to temporarily strengthen the heroes players control during battles. They can be purchased
+by any players who are currently having their turn during the battle. Below shows how it looks like when you are about to buy a rune.
+
+![Rune Purchase 1](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Rune%20Purchase%201.png)
+
+The screenshot above shows that when you enter Y when asked whether you want to buy a rune or not, you will be asked to enter the index (an integer) of the rune you
+want to purchase where index 0 means the first rune in the list of runes sold in the battlefield shop, index 1 means the second rune in the list, and so on.
+
+![Rune Purchase 2](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Rune%20Purchase%202.png)
+
 ### Upgrade Purchase
 
 Upgrades are purchaseable from the global shop outside battles. They are used to permanently strengthen the heroes players control during battles. Below shows how it
