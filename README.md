@@ -69,6 +69,17 @@ or not.
 
 ![Attack](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Attack.png)
 
+### Multiplayer Mode
+
+In multiplayer mode, you will play with 1 to 9 other human players where 4 of all other players in the battle are your teammates. You will be randomly placed in either team one 
+or team two for the battle. Everything in this mode works similarly to single player mode except that more human players are involved than in single player mode and that you are
+able to create more than one human player if there are less than two human players in the saved game data. To get an idea about how battle turns, attacking characters or 
+buildings, rune purchase, and human player data creation work in multiplayer, see "Single Player Mode" section of this document.
+
+The screenshot below shows a part which is in multiplayer mode but not in single player mode. This part involves entering how many human players are to be in the battle.
+
+![Multiplayer](https://github.com/CreativeCloudAppDev2020/Battleland/blob/master/images/Multiplayer.png)
+
 ### Upgrade Purchase
 
 Upgrades are purchaseable from the global shop outside battles. They are used to permanently strengthen the heroes players control during battles. Below shows how it
